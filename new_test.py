@@ -66,5 +66,22 @@ y = ["That", "so"]
 print("That" in x )
 print("That" not in x )
 print("noth")
+
 ----------------------------------------------------------------------------------
 Nothing
+
+
+print("That" in x )
+print("That" not in x )
+print("noth")
+
+
+print("That" in x )
+print("That" not in x )
+print("noth")
+
+
+print("That" in x )
+print("That" not in x )
+print("noth")
+
